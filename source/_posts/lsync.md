@@ -9,16 +9,18 @@ categories: linux
 >Lsyncd 是一个简单高效的文件同步工具，通过lua语言封装了 inotify 和 rsync 工具，采用了 Linux 内核（2.6.13 及以后）里的 inotify 触发机制，然后通过rsync去差异同步，达到实时的效果。
 
 
-
+<!-- more -->
 ### 安装过程：
 
 #### 第一步: 安装lsync及其组件
+
 ``` bash
 $ yum install lua lua-devel
 $ yum –y install rsync
 $ rpm -ivh http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
 $ yum install lsyncd
 ```
+
 
 #### 第二步: 修改配置文件
 ``` bash
