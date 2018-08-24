@@ -9,7 +9,7 @@ tags: [mysql,binlog]
 
 ### 1. 设置过期时间
 
-在mysql中执行该语句 修改mysql配置 
+在mysql中执行该语句 修改mysql配n置 
 
 ```base
 mysql > global expire_logs_days=7;
