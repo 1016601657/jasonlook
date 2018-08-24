@@ -3,7 +3,7 @@ title: 修改mysql binlog过期时间,及迁移存储路径
 date: 2018-04-02 20:17:47
 tags: [mysql,binlog]
 ---
->mysql binlog 的适量产生可以用于容灾修复, 但是大量的log文件同样会给服务器的硬盘带来压力, 所以我们修改log的过期时间, 并且为log文件重新分区.
+>mysql binlog 的适量产生可以用于容灾修复, 但是大量的log文件同样会给服务器的硬盘带来压力, 以下介绍如何修改binlog的过期时间, 并且为binlog文件重新分区.
 
 <!-- more -->
 

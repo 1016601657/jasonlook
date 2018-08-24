@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/mysql-binlog-toolarge.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <first_editor relative-caret-position="79">
+                <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -338,12 +338,12 @@
       <workItem from="1535012965864" duration="1301000" />
       <workItem from="1535036048131" duration="168000" />
       <workItem from="1535036237690" duration="2142000" />
-      <workItem from="1535091445678" duration="1262000" />
+      <workItem from="1535091445678" duration="1309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11958000" />
+    <option name="totallyTimeSpent" value="12005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -733,8 +733,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/mysql-binlog-toolarge.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="79">
+            <caret line="5" column="82" lean-forward="false" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
             <folding />
           </first_editor>
           <second_editor />
